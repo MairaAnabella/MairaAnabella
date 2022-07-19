@@ -12,3 +12,4 @@
 
 
 
+![Curriculum vitae_page-0001](https://user-images.githubusercontent.com/107017036/179776612-b0374af6-9c4a-4cc9-8452-f5e9e07da302.jpg)
