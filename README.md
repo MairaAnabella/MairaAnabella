@@ -1,8 +1,7 @@
 ## 😄 Here I am, Maira Gomez 👋
 
 
-<!--
-**MairaAnabella/MairaAnabella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ## Connect with me:
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/maira-anabella-gomez-686422242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for the-badge&logo=linkedin&logoColor=white" target="_blank" width="110"></a>
